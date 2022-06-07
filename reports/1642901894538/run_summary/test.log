@@ -1,0 +1,2 @@
+[2022-01-23 09:38:15] [IMessager.java] [1] [INFO] INFO: '**************** Test execution summary ****************'.
+[2022-01-23 09:38:15] [IMessager.java] [1] [INFO] RESULT #1: TEST [cscore - testCreateCFile] FAIL [log=file://E:\workspace\IdeaProjects\cscore\.\reports\1642901894538/c64e9051-64bc-4c2c-bf9c-53afe0f56903/test.log]
